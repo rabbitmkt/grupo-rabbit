@@ -28,7 +28,7 @@ const createRoomFileSync = () => {
   const niceNames = [
     "Dep. Criação",
     "Dep. Comercial",
-    "Gerentes",
+    "GR Rabbit",
     "Sala de Reunião 1",
     "Sala de Reunião 2",
     "Sala de Reunião 3",
